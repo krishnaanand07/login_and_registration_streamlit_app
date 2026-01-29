@@ -4,7 +4,7 @@ import streamlit as st
 st.header("Anurag university Student Records Management")
 #title of the app
 
-st .title("welceome to student records management system")
+st .title("welcome to student records management system")
 #subheader of the app
 st.subheader("Mang student efficiently and effectively")
 
