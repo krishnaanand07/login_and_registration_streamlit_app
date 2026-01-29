@@ -1,5 +1,4 @@
 import streamlit as st
-from mysql.connector import Error
 import re
 import time
 from datetime import datetime
